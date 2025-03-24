@@ -1,0 +1,13 @@
+# Ignorer les fichiers générer par l'IDE 
+.vscode
+
+
+# Dossiers de Compilation 
+bin/
+build/
+
+
+
+# Fichiers de compilation
+
+
