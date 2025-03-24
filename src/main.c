@@ -3,7 +3,7 @@
 int main(void)
 {
   /* code */
-  int n ;  /*Le nombre a fournir par l'utilisateur*/
+  int n;  /*Le nombre a fournir par l'utilisateur*/
   int somme; /* le resultat du calcul*/
 
   /*Demande et lecture du nombre*/
